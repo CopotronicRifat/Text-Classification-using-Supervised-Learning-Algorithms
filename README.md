@@ -22,7 +22,7 @@ classification accuracy.
 
 Paper link of this work: https://ieeexplore.ieee.org/abstract/document/7860233
 
-Cite this work: 
+**Cite this work: **
 
 @inproceedings{mishu2016performance,
   title={Performance analysis of supervised machine learning algorithms for text classification},
